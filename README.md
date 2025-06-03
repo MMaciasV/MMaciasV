@@ -10,7 +10,7 @@
 
 ##  I'm currently learning...
 - C Programming 
-- SQL & Databases 🗃
+- SQL & Databases 
 - Git & GitHub 
 - And honestly... I'm open to learning *anything*!
   
